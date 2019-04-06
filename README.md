@@ -13,3 +13,5 @@ Things to do:
 + Figure out a good angle/spacing combination for the overlapping corrections to take effect. (Hell, probably get another servo and separate the two sensors into two sonars, make a multistatic radar system instead.)
 + Modify the radar base again, now with precise measurements of sensor angles, sensor spacing, etc,... to provide a correct display.
 + Modify Display to fade only after the sonar has made a full pass over the coverage area.
+
+
